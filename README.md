@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahmoud Al Haj
+# Hi 👋, I'm <span style="font-style: italic; animation: nameAnimation 2s infinite linear;">Mahmoud Al Haj</span>
 
 - 🌱 I’m currently learning: Foundations of Computer Science
 - 📫 How to reach me: alhajmahmoud247@gmail.com
@@ -24,4 +24,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudalhaj4&show_icons=true&locale=en)
 
-<script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+
