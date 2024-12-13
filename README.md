@@ -1,7 +1,7 @@
 # Hi 👋, I'm <span style="font-style: italic; animation: nameAnimation 2s infinite linear;">Mahmoud Al Haj</span>
 
-- 🌱 I’m currently learning: Foundations of Computer Science
-- 📫 How to reach me: alhajmahmoud247@gmail.com
+- 🌱 I’m Full Stack Web Developer
+- 📫 How to reach me: mahmoudalhaj509@gmail.com
 
 ## Connect with me
 
