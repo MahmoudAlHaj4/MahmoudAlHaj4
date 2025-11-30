@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Full Stack Web Development<br><br>- 📫 How to reach me: Mahmoudalhaj509@gmail.com</p>
+<p align="left">I am a dedicated Junior Full Stack Web Developer passionate about building impactful software solutions. I work with JavaScript, PHP, SQL, Laravel, and React.js to create functional web applications. I love solving problems, learning new technologies, and working with teams to bring ideas to life. I’m excited to grow my career, contribute to meaningful projects, and continuously improve my skills.</p>
 
 ###
 
