@@ -9,7 +9,7 @@ I'm **Mahmoud**, a full-stack developer based in Lebanon. I like designing scala
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,php,laravel,python,aws,mysql,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,php,laravel,python,aws,mysql,git)
 
 ## What I'm Learning
 * System design principles
